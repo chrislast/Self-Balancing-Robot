@@ -1,4 +1,5 @@
-# Equsant-Self-Balancing-Robot-Python
+# Vertibot a Self-Balancing-Robot-Python
+
 A self balancing robot using Python and the Raspberry Pi 2. Angle calculations done with the help of the MPU6050 IMU.
 libraries used: mpu6050-raspberrypi 1.0.2 https://github.com/Tijndagamer/mpu6050
                 ,Rpi.GPIO
